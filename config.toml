@@ -1,0 +1,4 @@
+baseURL = 'http://vinhig.github.io/'
+languageCode = 'en-us'
+title = 'Portfolio Vincent Higginson'
+theme = "papermod"
