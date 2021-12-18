@@ -1,7 +1,7 @@
 ---
 title: "A dumb Vulkan Memory Allocator in plain C"
 date: 2021-08-31T12:50:50+02:00
-draft: true
+draft: false
 ---
 
 By reading the github repository of the famous library Vulkan Memory Allocator written by the AMD team, you will see a kinda huge list of games and apps which are actually using it. From "Detroit: Become Human" to "Skia", they are many who trust it. And they're right in a way. It does the job and it does it right. However, when you're learning a subject, you may want to investigate it deeply. You do not want to rely on whatever library is giving you some level of comfort (if it wasn't the case, I would have stayed with OpenGL).

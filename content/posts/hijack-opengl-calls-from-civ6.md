@@ -1,7 +1,7 @@
 ---
 title: "Hijack Opengl Calls From Civilization 6"
 date: 2021-08-31T14:35:23+02:00
-draft: true
+draft: false
 ---
 
 Some people consume League of Legends on a regular basis. Others prefer spending time playing Counter Strike. Each people may have a specific addiction which he finds difficult to part with (and this addiction may not be a video game). During some part of my third year at uni (during covid) my addiction was clearly Civilization 6. I do not have to introduce it. A 4X game playable with friends during hours and hours. Available on Windows, Console and Linux, but unfortunately the Linux version is somewhat crappy... (Not to blame the developers, I'm sure they did their best with what they had). So one day, I decided to dive into the deep world of reverse engineering. Tadaaaaa!
